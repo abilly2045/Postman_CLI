@@ -1,0 +1,146 @@
+[
+  {
+    "City": "Vancouver",
+    "Ramen": 100
+  },
+  {
+    "City": "San Francisco",
+    "Ramen": 84
+  },
+  {
+    "City": "Singapore",
+    "Ramen": 79
+  },
+  {
+    "City": "Yonkers",
+    "Ramen": 70
+  },
+  {
+    "City": "Austin",
+    "Ramen": 66
+  },
+  {
+    "City": "Los Angeles",
+    "Ramen": 65
+  },
+  {
+    "City": "San Diego",
+    "Ramen": 62
+  },
+  {
+    "City": "Makati",
+    "Ramen": 60
+  },
+  {
+    "City": "Seattle",
+    "Ramen": 58
+  },
+  {
+    "City": "San Jose",
+    "Ramen": 57
+  },
+  {
+    "City": "New York",
+    "Ramen": 56
+  },
+  {
+    "City": "Toronto",
+    "Ramen": 52
+  },
+  {
+    "City": "Quezon City",
+    "Ramen": 45
+  },
+  {
+    "City": "Chicago",
+    "Ramen": 43
+  },
+  {
+    "City": "Boston",
+    "Ramen": 42
+  },
+  {
+    "City": "Calgary",
+    "Ramen": 38
+  },
+  {
+    "City": "Washington",
+    "Ramen": 37
+  },
+  {
+    "City": "Houston",
+    "Ramen": 35
+  },
+  {
+    "City": "Montreal",
+    "Ramen": 34
+  },
+  {
+    "City": "Melbourne",
+    "Ramen": 33
+  },
+  {
+    "City": "Perth",
+    "Ramen": 31
+  },
+  {
+    "City": "Barcelona",
+    "Ramen": 30
+  },
+  {
+    "City": "Philadelphia",
+    "Ramen": 30
+  },
+  {
+    "City": "Brisbane",
+    "Ramen": 26
+  },
+  {
+    "City": "Dallas",
+    "Ramen": 26
+  },
+  {
+    "City": "Sydney",
+    "Ramen": 25
+  },
+  {
+    "City": "Jakarta",
+    "Ramen": 18
+  },
+  {
+    "City": "Milan",
+    "Ramen": 17
+  },
+  {
+    "City": "Madrid",
+    "Ramen": 17
+  },
+  {
+    "City": "Berlin",
+    "Ramen": 16
+  },
+  {
+    "City": "London",
+    "Ramen": 14
+  },
+  {
+    "City": "Mexico City",
+    "Ramen": 11
+  },
+  {
+    "City": "Bangkok",
+    "Ramen": 11
+  },
+  {
+    "City": "Warsaw",
+    "Ramen": 10
+  },
+  {
+    "City": "Paris",
+    "Ramen": 9
+  },
+    {
+    "City": "Lagos",
+    "Ramen": 2
+  }
+]
